@@ -16,7 +16,8 @@ export default function Index() {
             Hi, We're Ngedabrusin<span className="fancy">.</span>
           </h1>
           <span className="handle">@kurokoru</span>
-          <h2>A side part of developer life</h2>
+          <h2>A side part of "tukang" life</h2>
+          <h3><a href="/posts/welcome">Muqodimmah</a></h3>
           <SocialList />
         </div>
       </div>
