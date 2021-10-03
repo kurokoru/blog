@@ -15,7 +15,7 @@ export default function Index() {
           <h1>
             Hi, We're Ngedabrusin<span className="fancy">.</span>
           </h1>
-          <span className="handle">@kurokoru</span>
+          <span className="handle">daily laif from @hafid</span>
           <h2>A side part of "tukang" life</h2>
           <h3><a href="/posts/welcome">Muqodimmah</a></h3>
           <SocialList />
