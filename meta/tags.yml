@@ -2,14 +2,14 @@ tags:
   - slug: document
     name: document
   - slug: knowledge
-    name: kbd
+    name: knowledge
   - slug: laif
     name: laif
   - slug: license
     name: license
   - slug: ndx
     name: ndx
-  - slug: go
+  - slug: golang
     name: golang
   - slug: ngedabrus
     name: ngedabrus
