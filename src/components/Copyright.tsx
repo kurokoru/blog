@@ -1,7 +1,7 @@
 export default function Copyright() {
   return (
     <>
-      <p>&copy; 2020</p>
+      <p> Semuah milik-Nya &copy; - </p>
       <style jsx>
         {`
           p {
